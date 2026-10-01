@@ -159,6 +159,9 @@
 						"onSelectionChange",
 						"onHeaderClick"
 					],
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column1",
@@ -267,10 +270,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Variable": {
 					"type": "input",
@@ -615,6 +615,9 @@
 						"onSelectionChange",
 						"onHeaderClick"
 					],
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column27",
@@ -727,10 +730,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Button14": {
 					"type": "button",
@@ -1081,6 +1081,9 @@
 						"onSelectionChange",
 						"onHeaderClick"
 					],
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column5",
@@ -1193,10 +1196,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Button4": {
 					"type": "button",
@@ -1294,6 +1294,9 @@
 					"dataSource": "Form:C1466.colleagues",
 					"selectionMode": "single",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column12",
@@ -1434,10 +1437,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Text8": {
 					"type": "text",
@@ -1485,6 +1485,9 @@
 					"events": [
 						"onSelectionChange"
 					],
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column38",
@@ -1625,10 +1628,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Variable20": {
 					"type": "input",
@@ -1692,6 +1692,9 @@
 					"dataSource": "Form:C1466.employees",
 					"selectionMode": "none",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column17",
@@ -1832,10 +1835,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Button6": {
 					"type": "button",
@@ -2069,6 +2069,9 @@
 					"dataSource": "Form:C1466.employees",
 					"selectionMode": "none",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column22",
@@ -2209,10 +2212,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"information7": {
 					"type": "input",
@@ -2362,6 +2362,9 @@
 					"dataSource": "Form:C1466.empsWithHighSalary",
 					"selectionMode": "none",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column9",
@@ -2502,10 +2505,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"information3": {
 					"type": "input",
@@ -2544,6 +2544,9 @@
 					"dataSource": "Form:C1466.employees",
 					"selectionMode": "single",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column33",
@@ -2684,10 +2687,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Button17": {
 					"type": "button",
@@ -2792,6 +2792,9 @@
 						"onSelectionChange",
 						"onHeaderClick"
 					],
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column43",
@@ -2900,10 +2903,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Button8": {
 					"type": "button",
@@ -2973,6 +2973,9 @@
 					"dataSource": "Form:C1466.lastNames",
 					"selectionMode": "none",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column47",
@@ -3002,10 +3005,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Variable26": {
 					"type": "input",
@@ -3043,6 +3043,9 @@
 					"dataSource": "Form:C1466.companies",
 					"selectionMode": "none",
 					"scrollbarHorizontal": "automatic",
+					"stroke": "automatic",
+					"fill": "automatic",
+					"alternateFill": "automaticAlternate",
 					"columns": [
 						{
 							"name": "Column48",
@@ -3072,10 +3075,7 @@
 							},
 							"truncateMode": "none"
 						}
-					],
-					"stroke": "automatic",
-					"fill": "automatic",
-					"alternateFill": "automaticAlternate"
+					]
 				},
 				"Variable27": {
 					"type": "input",
@@ -3106,5 +3106,10 @@
 				"Radio Button8"
 			]
 		}
+	},
+	"geometryStamp": 7,
+	"$4d": {
+		"version": "1",
+		"kind": "form"
 	}
 }
