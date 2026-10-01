@@ -58,7 +58,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID : "
+					"text": ":xliff:TableForms_ID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -67,7 +67,7 @@
 					"width": 240,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "name : "
+					"text": ":xliff:TableForms_Name"
 				},
 				"Rectangle4": {
 					"type": "rectangle",
@@ -114,7 +114,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[Company:4]name:2",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",

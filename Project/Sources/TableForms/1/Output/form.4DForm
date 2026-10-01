@@ -58,7 +58,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Page:"
+					"text": ":xliff:TableForms_Page"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -67,7 +67,7 @@
 					"width": 240,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Title"
+					"text": ":xliff:TableForms_Title"
 				},
 				"Rectangle4": {
 					"type": "rectangle",
@@ -114,7 +114,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[INFO:1]TabTitle:3",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",

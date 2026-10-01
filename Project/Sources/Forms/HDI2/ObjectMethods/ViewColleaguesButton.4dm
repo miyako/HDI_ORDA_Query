@@ -10,7 +10,7 @@ Case of
 		Form:C1466.colleagues:=Form:C1466.employeeSelected.manager.directReports
 		
 	Else 
-		ALERT:C41("This employee is a top manager")
+		ALERT:C41(Localized string("AlertTopManager"))
 		OBJECT SET VISIBLE:C603(*; "colleagues"; False:C215)
 End case 
 

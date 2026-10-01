@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="HDI2JA.xlf" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="HDI2_Intro" resname="HDI2_Intro">
+				<source>In this part you will learn how to query the DataStore</source>
+				<target>このパートでは、データストアに対してクエリを実行する方法を学びます</target>
+			</trans-unit>
+			<trans-unit id="HDI2_FirstName" resname="HDI2_FirstName">
+				<source>First name</source>
+				<target>名</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LastName" resname="HDI2_LastName">
+				<source>Last name</source>
+				<target>姓</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Salary" resname="HDI2_Salary">
+				<source>Salary</source>
+				<target>給与</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Company" resname="HDI2_Company">
+				<source>Company</source>
+				<target>会社</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSalaryGreater" resname="HDI2_LabelSalaryGreater">
+				<source>View employees with a salary greater than:</source>
+				<target>次の給与より高い従業員を表示:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnViewAll" resname="HDI2_BtnViewAll">
+				<source>View all</source>
+				<target>すべて表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnQuery" resname="HDI2_BtnQuery">
+				<source>Query</source>
+				<target>クエリ</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelLastNameBegins" resname="HDI2_LabelLastNameBegins">
+				<source>View employees whose last name begins with:</source>
+				<target>姓が次で始まる従業員を表示:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ListOfEmployees" resname="HDI2_ListOfEmployees">
+				<source>List of employees</source>
+				<target>従業員のリスト</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Or" resname="HDI2_Or">
+				<source>or</source>
+				<target>または</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSalaryBetween" resname="HDI2_LabelSalaryBetween">
+				<source>View employees whose salary is between:</source>
+				<target>給与が次の範囲内の従業員を表示:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_And" resname="HDI2_And">
+				<source>and</source>
+				<target>と</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Trace" resname="HDI2_Trace">
+				<source>Trace</source>
+				<target>トレース</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnReset" resname="HDI2_BtnReset">
+				<source>Reset</source>
+				<target>リセット</target>
+			</trans-unit>
+			<trans-unit id="HDI2_QueryOptions" resname="HDI2_QueryOptions">
+				<source>Query options</source>
+				<target>クエリオプション</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelFirstNameBegins" resname="HDI2_LabelFirstNameBegins">
+				<source>View employees whose first name begins with</source>
+				<target>名が次で始まる従業員を表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelCompanyBegins" resname="HDI2_LabelCompanyBegins">
+				<source>and company name begins with </source>
+				<target>会社名が次で始まる </target>
+			</trans-unit>
+			<trans-unit id="HDI2_GetQueryPlan" resname="HDI2_GetQueryPlan">
+				<source>Get the query plan</source>
+				<target>クエリプランを取得</target>
+			</trans-unit>
+			<trans-unit id="HDI2_GetQueryPath" resname="HDI2_GetQueryPath">
+				<source>Get the query path</source>
+				<target>クエリパスを取得</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ManagerN1" resname="HDI2_ManagerN1">
+				<source>Manager (n+1)</source>
+				<target>マネージャー (n+1)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ManagerN2" resname="HDI2_ManagerN2">
+				<source>Manager (n+2)</source>
+				<target>マネージャー (n+2)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSelectEmployee" resname="HDI2_LabelSelectEmployee">
+				<source>Select an employee and view all the employees with the same manager</source>
+				<target>従業員を選択して、同じマネージャーを持つすべての従業員を表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnViewColleagues" resname="HDI2_BtnViewColleagues">
+				<source>View colleagues</source>
+				<target>同僚を表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelManagerBegins" resname="HDI2_LabelManagerBegins">
+				<source>View employees whose manager's last name begins with:</source>
+				<target>マネージャーの姓が次で始まる従業員を表示:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelManager2Begins" resname="HDI2_LabelManager2Begins">
+				<source>View employees whose n+2's (manager's manager) last name begins with:</source>
+				<target>n+2 (マネージャーのマネージャー) の姓が次で始まる従業員を表示:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_NumberFound" resname="HDI2_NumberFound">
+				<source>Number of employees found:</source>
+				<target>見つかった従業員数:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Department" resname="HDI2_Department">
+				<source>Department</source>
+				<target>部署</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSortByLastName" resname="HDI2_LabelSortByLastName">
+				<source>Sort employees by company (ascending), department (ascending) and last name (ascending)</source>
+				<target>会社 (昇順)、部署 (昇順)、姓 (昇順) で従業員を並べ替え</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnSort" resname="HDI2_BtnSort">
+				<source>Sort</source>
+				<target>並べ替え</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSortBySalary" resname="HDI2_LabelSortBySalary">
+				<source>Sort employees by company (ascending), department (ascending) and salary (descending)</source>
+				<target>会社 (昇順)、部署 (昇順)、給与 (降順) で従業員を並べ替え</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ListHighSalary" resname="HDI2_ListHighSalary">
+				<source>List of employees whose salary is &gt;= 70000</source>
+				<target>給与が 70000 以上の従業員のリスト</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelCompanyT" resname="HDI2_LabelCompanyT">
+				<source>View employees whose company name begins with a &quot;T&quot;</source>
+				<target>会社名が「T」で始まる従業員を表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnOnlyCompanies" resname="HDI2_BtnOnlyCompanies">
+				<source>View only companies</source>
+				<target>会社のみ表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnOnlyLastNames" resname="HDI2_BtnOnlyLastNames">
+				<source>View only last names</source>
+				<target>姓のみ表示</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LastNames" resname="HDI2_LastNames">
+				<source>Last names</source>
+				<target>姓</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Companies" resname="HDI2_Companies">
+				<source>Companies</source>
+				<target>会社</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

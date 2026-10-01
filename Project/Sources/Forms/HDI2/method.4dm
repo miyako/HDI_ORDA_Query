@@ -1,5 +1,4 @@
-C_LONGINT:C283($n; $i)
-C_BOOLEAN:C305(btnTrace)
+var $n; $i : Integer
 
 
 Case of 

@@ -1,5 +1,5 @@
 
-C_OBJECT:C1216($params)
+var $params : Object
 
 If (btnTrace)
 	TRACE:C157

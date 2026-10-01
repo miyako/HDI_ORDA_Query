@@ -58,7 +58,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID : "
+					"text": ":xliff:TableForms_ID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -67,7 +67,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "firstname : "
+					"text": ":xliff:TableForms_FirstName"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "lastName : "
+					"text": ":xliff:TableForms_LastName"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -85,7 +85,7 @@
 					"width": 71,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "managerID : "
+					"text": ":xliff:TableForms_ManagerID"
 				},
 				"S5_Text": {
 					"type": "text",
@@ -94,7 +94,7 @@
 					"width": 74,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "employerID : "
+					"text": ":xliff:TableForms_EmployerID"
 				},
 				"S6_Text": {
 					"type": "text",
@@ -103,7 +103,7 @@
 					"width": 56,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "salary : "
+					"text": ":xliff:TableForms_Salary"
 				},
 				"Rectangle8": {
 					"type": "rectangle",
@@ -150,7 +150,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[Employee:3]firstName:2",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -175,7 +175,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[Employee:3]lastName:3",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -201,7 +201,7 @@
 					"sizingX": "grow",
 					"dataSource": "[Employee:3]managerID:4",
 					"dataSourceTypeHint": "integer",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -227,7 +227,7 @@
 					"sizingX": "grow",
 					"dataSource": "[Employee:3]employerID:5",
 					"dataSourceTypeHint": "integer",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -253,7 +253,7 @@
 					"sizingX": "grow",
 					"dataSource": "[Employee:3]salary:6",
 					"dataSourceTypeHint": "number",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",

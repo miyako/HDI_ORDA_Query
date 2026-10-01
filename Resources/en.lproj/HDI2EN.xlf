@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="HDI2EN.xlf" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="HDI2_Intro" resname="HDI2_Intro">
+				<source>In this part you will learn how to query the DataStore</source>
+				<target>In this part you will learn how to query the DataStore</target>
+			</trans-unit>
+			<trans-unit id="HDI2_FirstName" resname="HDI2_FirstName">
+				<source>First name</source>
+				<target>First name</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LastName" resname="HDI2_LastName">
+				<source>Last name</source>
+				<target>Last name</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Salary" resname="HDI2_Salary">
+				<source>Salary</source>
+				<target>Salary</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Company" resname="HDI2_Company">
+				<source>Company</source>
+				<target>Company</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSalaryGreater" resname="HDI2_LabelSalaryGreater">
+				<source>View employees with a salary greater than:</source>
+				<target>View employees with a salary greater than:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnViewAll" resname="HDI2_BtnViewAll">
+				<source>View all</source>
+				<target>View all</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnQuery" resname="HDI2_BtnQuery">
+				<source>Query</source>
+				<target>Query</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelLastNameBegins" resname="HDI2_LabelLastNameBegins">
+				<source>View employees whose last name begins with:</source>
+				<target>View employees whose last name begins with:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ListOfEmployees" resname="HDI2_ListOfEmployees">
+				<source>List of employees</source>
+				<target>List of employees</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Or" resname="HDI2_Or">
+				<source>or</source>
+				<target>or</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSalaryBetween" resname="HDI2_LabelSalaryBetween">
+				<source>View employees whose salary is between:</source>
+				<target>View employees whose salary is between:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_And" resname="HDI2_And">
+				<source>and</source>
+				<target>and</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Trace" resname="HDI2_Trace">
+				<source>Trace</source>
+				<target>Trace</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnReset" resname="HDI2_BtnReset">
+				<source>Reset</source>
+				<target>Reset</target>
+			</trans-unit>
+			<trans-unit id="HDI2_QueryOptions" resname="HDI2_QueryOptions">
+				<source>Query options</source>
+				<target>Query options</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelFirstNameBegins" resname="HDI2_LabelFirstNameBegins">
+				<source>View employees whose first name begins with</source>
+				<target>View employees whose first name begins with</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelCompanyBegins" resname="HDI2_LabelCompanyBegins">
+				<source>and company name begins with </source>
+				<target>and company name begins with </target>
+			</trans-unit>
+			<trans-unit id="HDI2_GetQueryPlan" resname="HDI2_GetQueryPlan">
+				<source>Get the query plan</source>
+				<target>Get the query plan</target>
+			</trans-unit>
+			<trans-unit id="HDI2_GetQueryPath" resname="HDI2_GetQueryPath">
+				<source>Get the query path</source>
+				<target>Get the query path</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ManagerN1" resname="HDI2_ManagerN1">
+				<source>Manager (n+1)</source>
+				<target>Manager (n+1)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ManagerN2" resname="HDI2_ManagerN2">
+				<source>Manager (n+2)</source>
+				<target>Manager (n+2)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSelectEmployee" resname="HDI2_LabelSelectEmployee">
+				<source>Select an employee and view all the employees with the same manager</source>
+				<target>Select an employee and view all the employees with the same manager</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnViewColleagues" resname="HDI2_BtnViewColleagues">
+				<source>View colleagues</source>
+				<target>View colleagues</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelManagerBegins" resname="HDI2_LabelManagerBegins">
+				<source>View employees whose manager's last name begins with:</source>
+				<target>View employees whose manager's last name begins with:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelManager2Begins" resname="HDI2_LabelManager2Begins">
+				<source>View employees whose n+2's (manager's manager) last name begins with:</source>
+				<target>View employees whose n+2's (manager's manager) last name begins with:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_NumberFound" resname="HDI2_NumberFound">
+				<source>Number of employees found:</source>
+				<target>Number of employees found:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Department" resname="HDI2_Department">
+				<source>Department</source>
+				<target>Department</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSortByLastName" resname="HDI2_LabelSortByLastName">
+				<source>Sort employees by company (ascending), department (ascending) and last name (ascending)</source>
+				<target>Sort employees by company (ascending), department (ascending) and last name (ascending)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnSort" resname="HDI2_BtnSort">
+				<source>Sort</source>
+				<target>Sort</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelSortBySalary" resname="HDI2_LabelSortBySalary">
+				<source>Sort employees by company (ascending), department (ascending) and salary (descending)</source>
+				<target>Sort employees by company (ascending), department (ascending) and salary (descending)</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ListHighSalary" resname="HDI2_ListHighSalary">
+				<source>List of employees whose salary is &gt;= 70000</source>
+				<target>List of employees whose salary is &gt;= 70000</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LabelCompanyT" resname="HDI2_LabelCompanyT">
+				<source>View employees whose company name begins with a &quot;T&quot;</source>
+				<target>View employees whose company name begins with a &quot;T&quot;</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnOnlyCompanies" resname="HDI2_BtnOnlyCompanies">
+				<source>View only companies</source>
+				<target>View only companies</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnOnlyLastNames" resname="HDI2_BtnOnlyLastNames">
+				<source>View only last names</source>
+				<target>View only last names</target>
+			</trans-unit>
+			<trans-unit id="HDI2_LastNames" resname="HDI2_LastNames">
+				<source>Last names</source>
+				<target>Last names</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Companies" resname="HDI2_Companies">
+				<source>Companies</source>
+				<target>Companies</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

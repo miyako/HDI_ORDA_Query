@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"invisible":true}
 //Business logic related to the DataStore
 Form:C1466.employees:=ds:C1482.Employee.all()
 
@@ -26,8 +26,8 @@ Form:C1466.queryPlan:=0
 Form:C1466.queryPath:=0
 
 ARRAY TEXT:C222(_DisplayOption; 2)
-_DisplayOption{1}:="Query plan"
-_DisplayOption{2}:="Query path"
+_DisplayOption{1}:=Localized string("HDI2_QueryPlan")
+_DisplayOption{2}:=Localized string("HDI2_QueryPath")
 _DisplayOption:=1
 OBJECT SET VISIBLE:C603(*; "queryPlan@"; False:C215)
 OBJECT SET VISIBLE:C603(*; "queryPath@"; False:C215)

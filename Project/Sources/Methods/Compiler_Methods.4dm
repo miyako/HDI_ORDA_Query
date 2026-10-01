@@ -1,2 +1,2 @@
 //%attributes = {"invisible":true}
-C_LONGINT:C283(00_Start; $1)
+  // method declarations are provided by #DECLARE in each method

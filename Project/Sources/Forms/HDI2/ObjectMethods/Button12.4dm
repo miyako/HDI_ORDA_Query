@@ -1,6 +1,6 @@
 
-C_COLLECTION:C1488($orderCollection)
-C_OBJECT:C1216($orderObject)
+var $orderCollection : Collection
+var $orderObject : Object
 
 If (btnTrace)
 	TRACE:C157

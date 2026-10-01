@@ -1,4 +1,4 @@
-C_OBJECT:C1216($queryOption)
+var $queryOption : Object
 
 If (btnTrace)
 	TRACE:C157
