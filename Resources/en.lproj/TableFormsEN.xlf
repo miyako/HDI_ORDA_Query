@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="TableFormsEN.xlf" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="TableForms_Info" resname="TableForms_Info">
+				<source>INFO</source>
+				<target>INFO</target>
+			</trans-unit>
+			<trans-unit id="TableForms_ID" resname="TableForms_ID">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_Page" resname="TableForms_Page">
+				<source>Page:</source>
+				<target>Page:</target>
+			</trans-unit>
+			<trans-unit id="TableForms_Title" resname="TableForms_Title">
+				<source>Title</source>
+				<target>Title</target>
+			</trans-unit>
+			<trans-unit id="TableForms_Employee" resname="TableForms_Employee">
+				<source>Employee</source>
+				<target>Employee</target>
+			</trans-unit>
+			<trans-unit id="TableForms_FirstName" resname="TableForms_FirstName">
+				<source>firstname : </source>
+				<target>firstname : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_LastName" resname="TableForms_LastName">
+				<source>lastName : </source>
+				<target>lastName : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_ManagerID" resname="TableForms_ManagerID">
+				<source>managerID : </source>
+				<target>managerID : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_EmployerID" resname="TableForms_EmployerID">
+				<source>employerID : </source>
+				<target>employerID : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_Salary" resname="TableForms_Salary">
+				<source>salary : </source>
+				<target>salary : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_Company" resname="TableForms_Company">
+				<source>Company</source>
+				<target>Company</target>
+			</trans-unit>
+			<trans-unit id="TableForms_Name" resname="TableForms_Name">
+				<source>name : </source>
+				<target>name : </target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

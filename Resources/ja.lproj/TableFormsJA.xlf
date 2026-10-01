@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="TableFormsJA.xlf" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="TableForms_Info" resname="TableForms_Info">
+				<source>INFO</source>
+				<target>情報</target>
+			</trans-unit>
+			<trans-unit id="TableForms_ID" resname="TableForms_ID">
+				<source>ID : </source>
+				<target>ID : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_Page" resname="TableForms_Page">
+				<source>Page:</source>
+				<target>ページ:</target>
+			</trans-unit>
+			<trans-unit id="TableForms_Title" resname="TableForms_Title">
+				<source>Title</source>
+				<target>タイトル</target>
+			</trans-unit>
+			<trans-unit id="TableForms_Employee" resname="TableForms_Employee">
+				<source>Employee</source>
+				<target>従業員</target>
+			</trans-unit>
+			<trans-unit id="TableForms_FirstName" resname="TableForms_FirstName">
+				<source>firstname : </source>
+				<target>名 : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_LastName" resname="TableForms_LastName">
+				<source>lastName : </source>
+				<target>姓 : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_ManagerID" resname="TableForms_ManagerID">
+				<source>managerID : </source>
+				<target>マネージャーID : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_EmployerID" resname="TableForms_EmployerID">
+				<source>employerID : </source>
+				<target>雇用主ID : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_Salary" resname="TableForms_Salary">
+				<source>salary : </source>
+				<target>給与 : </target>
+			</trans-unit>
+			<trans-unit id="TableForms_Company" resname="TableForms_Company">
+				<source>Company</source>
+				<target>会社</target>
+			</trans-unit>
+			<trans-unit id="TableForms_Name" resname="TableForms_Name">
+				<source>name : </source>
+				<target>名前 : </target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

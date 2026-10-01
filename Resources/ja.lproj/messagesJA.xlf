@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="messagesJA.xlf" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="HDI_Title" resname="HDI_Title">
+				<source>get started with ORDA queries?</source>
+				<target>ORDAでクエリを始めるには？</target>
+			</trans-unit>
+			<trans-unit id="HDI_Info" resname="HDI_Info">
+				<source>ORDA</source>
+				<target>ORDA</target>
+			</trans-unit>
+			<trans-unit id="BtnClose" resname="BtnClose">
+				<source>Close</source>
+				<target>閉じる</target>
+			</trans-unit>
+			<trans-unit id="ErrorViewProMain" resname="ErrorViewProMain">
+				<source>Sorry, this &quot;How do I&quot; (HDI) example demonstrates a 4D View Pro feature.</source>
+				<target>申し訳ありません。この「How do I」(HDI) のサンプルは 4D View Pro の機能を示しています。</target>
+			</trans-unit>
+			<trans-unit id="ErrorViewProSub" resname="ErrorViewProSub">
+				<source>You must have a valid 4D View Pro license to continue.</source>
+				<target>続行するには有効な 4D View Pro ライセンスが必要です。</target>
+			</trans-unit>
+			<trans-unit id="ErrorWriteProMain" resname="ErrorWriteProMain">
+				<source>Sorry, this &quot;How do I&quot; (HDI) example demonstrates a 4D Write Pro feature.</source>
+				<target>申し訳ありません。この「How do I」(HDI) のサンプルは 4D Write Pro の機能を示しています。</target>
+			</trans-unit>
+			<trans-unit id="ErrorWriteProSub" resname="ErrorWriteProSub">
+				<source>You must have a valid 4D Write Pro license to continue.</source>
+				<target>続行するには有効な 4D Write Pro ライセンスが必要です。</target>
+			</trans-unit>
+			<trans-unit id="AlertTopManager" resname="AlertTopManager">
+				<source>This employee is a top manager</source>
+				<target>この従業員は最上位のマネージャーです</target>
+			</trans-unit>
+			<trans-unit id="HDI2_QueryPlan" resname="HDI2_QueryPlan">
+				<source>Query plan</source>
+				<target>クエリプラン</target>
+			</trans-unit>
+			<trans-unit id="HDI2_QueryPath" resname="HDI2_QueryPath">
+				<source>Query path</source>
+				<target>クエリパス</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
